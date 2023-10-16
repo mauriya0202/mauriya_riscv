@@ -131,6 +131,11 @@ Debugging for Ofast
 + Calculator
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/c10534e1-c91f-4c5a-8d8c-229e5e8117fe)
 
+## Sequential Logic
+
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/1fc91309-617d-4da8-be7a-ab7afa55fd22)
+
+
 
 
 
