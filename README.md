@@ -116,7 +116,12 @@ Debugging for Ofast
 
 ## Combinational Logic in TL-Verilog
 
++ Getting used to the Platform
 ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/daf78082-f991-4ab0-91c5-1d43477bf739)
+
++ Inverter Design
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/9114d753-ad83-4fff-a07f-665f6fb85179)
+
 
 
 </details>
