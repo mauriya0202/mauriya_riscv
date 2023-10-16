@@ -128,6 +128,10 @@ Debugging for Ofast
 + MUX
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/36ad1aaf-556b-4d62-9d0c-a369f1b7d1f7)
 
++ Calculator
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/c10534e1-c91f-4c5a-8d8c-229e5e8117fe)
+
+
 
 
 
