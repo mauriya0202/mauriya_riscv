@@ -154,6 +154,9 @@ Debugging for Ofast
 
 + Distance Calculator
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/202dbcd5-94ff-456f-b4f7-1baf79ed183b)
++ Calculator with Single Value Memory
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/a7629b99-3112-4418-9779-ec5beb56e28a)
+
 
   
 
