@@ -166,3 +166,10 @@ Debugging for Ofast
 
 </details>
 
+
+
+
+<details>
+<summary>Week 1 Day 4 - Basic RISC-V CPU micro-architecture</summary>
+
+</details>
