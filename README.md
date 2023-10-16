@@ -110,3 +110,6 @@ Debugging for Ofast
 ![image](https://github.com/mauriya0202/pes_asic_class/assets/112739882/a58aa33a-ecaf-4991-9d21-30d03b4929ac)
 
 </details>
+
+<details>
+<summary>Week 1 Day 3 - Digital Logic with TL-Verilog and Makerchip</summary>
