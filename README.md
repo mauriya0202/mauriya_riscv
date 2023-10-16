@@ -139,6 +139,9 @@ Debugging for Ofast
 + Free Running Counter
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/a815205d-c3a3-4abd-9e39-fa0661c8431c)
 
++ Sequential Calculator
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/a31a4a19-c5f0-42ad-b5d6-9f2577d52a83)
+
 
 
 
