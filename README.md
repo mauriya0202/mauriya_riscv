@@ -150,6 +150,10 @@ Debugging for Ofast
 + Lab
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/606474c6-2a14-4bb3-860d-3b8355a002f8)
 
+## Validity
+
++ Distance Calculator
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/202dbcd5-94ff-456f-b4f7-1baf79ed183b)
 
   
 
