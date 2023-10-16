@@ -122,6 +122,10 @@ Debugging for Ofast
 + Inverter Design
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/9114d753-ad83-4fff-a07f-665f6fb85179)
 
++ Vector
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/ee90a253-9a28-4035-961a-ade22f395747)
+
+
 
 
 </details>
