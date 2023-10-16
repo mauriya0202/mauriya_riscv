@@ -142,7 +142,7 @@ Debugging for Ofast
 + Sequential Calculator
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/a31a4a19-c5f0-42ad-b5d6-9f2577d52a83)
 
-  ## Pipelined
+## Pipelined
 
 +  Pythagoras Theorem
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/5ee111f1-28c5-45b1-a937-8737ffa51c98)
