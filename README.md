@@ -113,3 +113,11 @@ Debugging for Ofast
 
 <details>
 <summary>Week 1 Day 3 - Digital Logic with TL-Verilog and Makerchip</summary>
+
+## Combinational Logic in TL-Verilog
+
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/daf78082-f991-4ab0-91c5-1d43477bf739)
+
+
+</details>
+
