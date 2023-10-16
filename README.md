@@ -125,6 +125,9 @@ Debugging for Ofast
 + Vector
   ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/ee90a253-9a28-4035-961a-ade22f395747)
 
++ MUX
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/36ad1aaf-556b-4d62-9d0c-a369f1b7d1f7)
+
 
 
 
