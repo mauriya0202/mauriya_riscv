@@ -133,8 +133,11 @@ Debugging for Ofast
 
 ## Sequential Logic
 
-![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/1fc91309-617d-4da8-be7a-ab7afa55fd22)
++ Fibonacci Series
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/1fc91309-617d-4da8-be7a-ab7afa55fd22)
 
++ Free Running Counter
+  ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/a815205d-c3a3-4abd-9e39-fa0661c8431c)
 
 
 
