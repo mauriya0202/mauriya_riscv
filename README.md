@@ -182,7 +182,8 @@ Debugging for Ofast
 
 ## Instruction Decode
 
-![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/b4301c36-3d87-476b-9106-def213d59b9e)
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/164005ab-2959-447b-ac49-91ce17e30380)
+
 
 
 
