@@ -192,6 +192,10 @@ Debugging for Ofast
 ## ALU
 ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/8c8ece5e-d603-4d7c-9232-be4c421887ad)
 
+## Register Write
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/3106d14e-0f3f-4950-a746-8ed287231ea6)
+
+
 
 
 
