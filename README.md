@@ -184,6 +184,7 @@ Debugging for Ofast
 
 ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/164005ab-2959-447b-ac49-91ce17e30380)
 ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/4d3fb732-74a4-4027-ba88-a2fb64a25c4b)
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/01544b93-e10e-4684-89a7-17d322ec9fd8)
 
 
 
