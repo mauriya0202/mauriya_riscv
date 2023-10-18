@@ -172,4 +172,9 @@ Debugging for Ofast
 <details>
 <summary>Week 1 Day 4 - Basic RISC-V CPU micro-architecture</summary>
 
+## Program Counter
+
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/5a83aa52-449c-41cd-850b-e536dd9763bf)
+
+
 </details>
