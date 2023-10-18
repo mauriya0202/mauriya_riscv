@@ -176,5 +176,10 @@ Debugging for Ofast
 
 ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/5a83aa52-449c-41cd-850b-e536dd9763bf)
 
+## Instruction Fetch
+
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/f8c72d3e-429c-4b4e-8da9-78c7ad6d415f)
+
+
 
 </details>
