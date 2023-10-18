@@ -189,6 +189,9 @@ Debugging for Ofast
 ## Register File Read
 ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/dc79bfa8-835c-47d9-ab8f-8805816c96b0)
 
+## ALU
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/8c8ece5e-d603-4d7c-9232-be4c421887ad)
+
 
 
 
