@@ -195,6 +195,8 @@ Debugging for Ofast
 ## Register Write
 ![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/3106d14e-0f3f-4950-a746-8ed287231ea6)
 
+## Branch Instructions
+![image](https://github.com/mauriya0202/mauriya_riscv/assets/112739882/07222fdd-bf4d-4716-bba6-e6a3c4dd1cd1)
 
 
 
